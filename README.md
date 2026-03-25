@@ -4,7 +4,7 @@
     Feel free to inspire!
 -->
 
-Tony Nguyen
+# Tony Nguyen
 
 <!--
      This is the list of my skills and tools I am studying!
